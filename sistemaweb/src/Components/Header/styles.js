@@ -28,7 +28,7 @@ export const Menu = styled.div`
     }
 
     a:hover{
-        color:#FFD700;
+        color:#FF3812;
     }
 
 
