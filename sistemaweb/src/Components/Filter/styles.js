@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const Container = styled.div`
     width: 150px;
     height: 50px;
-    background: #000000;
+    background: ${props => props.activation ? '#FF3812': '#000000'};
     padding: 1px;
     cursor: pointer;
     border-radius: 5px;
