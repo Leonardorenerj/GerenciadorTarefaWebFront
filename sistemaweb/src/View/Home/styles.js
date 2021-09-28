@@ -17,3 +17,13 @@ export const ContainerFilter = styled.div`
                 border: none;
         }
 `
+
+export const ContainerCard = styled.div`
+        
+        
+        width: 20%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+
+`
