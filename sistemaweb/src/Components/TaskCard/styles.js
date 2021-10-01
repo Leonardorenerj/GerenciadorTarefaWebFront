@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-    width: 200%;
+    width: 180%px;
     height: 150px;
 
     box-shadow: -3px 1px 13px -2px rgba(0, 0, 0, 0.73);
@@ -9,8 +9,10 @@ export const Container = styled.div`
     border-radius: 10px;
 
     display: flex;
+    align-items: center;
     justify-content: center;
     flex-direction: column;
+    
     margin: 25px;
 `
 export const TopCard = styled.div`

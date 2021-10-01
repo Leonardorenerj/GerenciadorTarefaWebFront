@@ -20,10 +20,8 @@ export const ContainerFilter = styled.div`
 
 export const ContainerCard = styled.div`
         
-        
-        width: 20%;
+        width: 100%;
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
-
 `
