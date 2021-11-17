@@ -3,10 +3,10 @@ import * as Styled from './styles';
 
 
 
-function Filter(props){
+function Filter(props) {
     return (
         <Styled.Container activation = {props.actived}>
-            <img src={props.img} alt="FILTRO"/>
+            <img src={props.img} alt="FILTRO" />
             <span>{props.title}</span>
         </Styled.Container>
     )

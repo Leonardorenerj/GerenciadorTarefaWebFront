@@ -2,11 +2,10 @@ import React from 'react';
 import * as Styled from './styles';
 
 
-
-function Footer(){
+function Footer() {
     return (
         <Styled.Container>
-
+            
         </Styled.Container>
     )
 }
